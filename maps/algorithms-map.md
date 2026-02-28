@@ -58,6 +58,6 @@ click B15 "../terms/algorithms/linked-lists.md"
 
 %% Link back to root map
 R[← Back to Concept Map]
-click R "../concept-map.md"
+click R "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Terms-for-the-NSW-HSC/blob/main/concept-map.md"
 ```
 
