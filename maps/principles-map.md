@@ -30,6 +30,7 @@ click A11 "../terms/principles/reliability.md"
 click A12 "../terms/principles/maintainability.md"
 
 R[← Back to Concept Map]
-click R "../concept-map.md"
+click R "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Terms-for-the-NSW-HSC/blob/main/concept-map.md"
+
 ```
 
