@@ -214,19 +214,129 @@ O1 --> A12
 ```
 
 
+### O2 → Algorithms
 
 ```mermaid
-
+graph TD
+O2[SE11 2] --> B1
+O2 --> B2
+O2 --> B3
+O2 --> B4
+O2 --> B5
+O2 --> B6
+O2 --> B7
+O2 --> B8
+O2 --> B9
+O2 --> B10
+O2 --> B11
+O2 --> B12
+O2 --> B13
+O2 --> B14
+O2 --> B15
 ```
 
+---
 
+### O3 → Web/PWA + Storage
 
 ```mermaid
+graph TD
+O3[SE11 3] --> C1
+O3 --> C2
+O3 --> C3
+O3 --> C4
+O3 --> C5
+O3 --> C6
+O3 --> C7
+O3 --> C8
+O3 --> C9
+O3 --> C10
+O3 --> C11
+O3 --> C12
+O3 --> C13
+O3 --> C14
+O3 --> C15
+O3 --> C16
+O3 --> C17
+O3 --> C18
+O3 --> C19
+O3 --> C20
 
+O3 --> D8
+O3 --> D9
+O3 --> D10
 ```
 
+---
 
+### O4 → Project Management + Documentation
 
 ```mermaid
+graph TD
+O4[SE12 1] --> P1
+O4 --> P2
+O4 --> P3
+O4 --> P4
+O4 --> P5
+O4 --> P6
+O4 --> P7
+O4 --> P8
+O4 --> P9
+O4 --> P10
+O4 --> P11
+O4 --> P12
+O4 --> P13
+O4 --> P14
+O4 --> P15
 
+O4 --> DOC1
+O4 --> DOC2
+O4 --> DOC3
+O4 --> DOC4
+O4 --> DOC5
+O4 --> DOC6
+O4 --> DOC7
+O4 --> DOC8
 ```
+
+### O5 → Testing + Security + Verbs
+
+```mermaid
+graph TD
+O5[SE12 2] --> T1
+O5 --> T2
+O5 --> T3
+O5 --> T4
+O5 --> T5
+O5 --> T6
+O5 --> T7
+O5 --> T8
+O5 --> T9
+O5 --> T10
+O5 --> T11
+
+O5 --> S1
+O5 --> S2
+O5 --> S3
+O5 --> S4
+O5 --> S5
+O5 --> S6
+O5 --> S7
+O5 --> S8
+O5 --> S9
+
+O5 --> V1
+O5 --> V2
+O5 --> V3
+O5 --> V4
+O5 --> V5
+O5 --> V6
+O5 --> V7
+O5 --> V8
+O5 --> V9
+```
+
+---
+
+
+
