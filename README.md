@@ -13,9 +13,7 @@ O3[SE11 3 Web and PWA Development]
 O4[SE12 1 Project Management and Documentation]
 O5[SE12 2 Evaluation Testing and Deployment]
 ```
-
 ---
-
 ## 2. Principles
 ```mermaid
 graph TD
