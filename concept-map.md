@@ -1,6 +1,5 @@
 # Concept Map
 
-
 ```mermaid
 graph TD
 
@@ -15,9 +14,7 @@ click O2 "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Term
 click O3 "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Terms-for-the-NSW-HSC/blob/main/maps/web-map.md"
 click O4 "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Terms-for-the-NSW-HSC/blob/main/maps/pm-docs-map.md"
 click O5 "https://github.com/detnsw-sydtech/Software-Engineering-Examinable-Terms-for-the-NSW-HSC/blob/main/maps/testing-security-map.md"
-
 ```
-
 
 # 📘 Welcome to the Software Engineering Concept Map
 
