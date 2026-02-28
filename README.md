@@ -54,3 +54,30 @@ B14[Queues]
 B15[Linked Lists]
 ```
 
+---
+
+## 4. Web & PWA Development
+
+```mermaid
+graph TD
+C1[HTML Semantics]
+C2[CSS Layout]
+C3[JavaScript]
+C4[DOM]
+C5[Fetch API]
+C6[Async Await]
+C7[Event Loop]
+C8[Service Worker]
+C9[Manifest JSON]
+C10[Caching Strategies]
+C11[Offline Support]
+C12[Responsive Design]
+C13[Accessibility]
+C14[Routing]
+C15[API Endpoints]
+C16[JSON]
+C17[HTTP Methods]
+C18[Status Codes]
+C19[Security Headers]
+C20[CORS]
+```
