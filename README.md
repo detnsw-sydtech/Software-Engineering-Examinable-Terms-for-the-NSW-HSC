@@ -11,7 +11,7 @@ O1[SE11-1<br>Software Engineering Principles]
 O2[SE11-2<br>Algorithms & Data Structures]
 O3[SE11-3<br>Web & PWA Development]
 O4[SE12-1<br>Project Management & Documentation]
-O5[SE12-2<br>Evaluation, Testing & Deployment]
+O5[SE12-2   Evaluation, Testing & Deployment]
 
 
 %% =========================
