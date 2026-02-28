@@ -81,3 +81,152 @@ C18[Status Codes]
 C19[Security Headers]
 C20[CORS]
 ```
+
+---
+
+## 5. Data & Storage
+
+```mermaid
+graph TD
+D1[Relational Databases]
+D2[SQL]
+D3[NoSQL]
+D4[ER Diagrams]
+D5[Entities and Attributes]
+D6[Relationships]
+D7[Normalisation]
+D8[LocalStorage]
+D9[IndexDB]
+D10[Session Storage]
+```
+
+---
+
+## 6. Security
+
+```mermaid
+graph TD
+S1[Authentication]
+S2[Authorisation]
+S3[Hashing]
+S4[Encryption]
+S5[Input Validation]
+S6[Sanitisation]
+S7[OWASP Top 10]
+S8[HTTPS]
+S9[Tokens and Sessions]
+```
+
+---
+
+## 7. Project Management
+
+```mermaid
+graph TD
+P1[Requirements]
+P2[User Stories]
+P3[Acceptance Criteria]
+P4[Personas]
+P5[Use Cases]
+P6[Feasibility Study]
+P7[Risk Management]
+P8[Agile]
+P9[Scrum]
+P10[Sprints]
+P11[Backlog]
+P12[Burndown Chart]
+P13[Version Control]
+P14[Branching Strategies]
+P15[Merge Requests]
+```
+
+---
+
+## 8. Documentation
+
+```mermaid
+graph TD
+DOC1[UML Class Diagram]
+DOC2[UML Sequence Diagram]
+DOC3[UML Activity Diagram]
+DOC4[Flowcharts]
+DOC5[Wireframes]
+DOC6[Prototypes]
+DOC7[Technical Documentation]
+DOC8[API Documentation]
+```
+
+---
+
+## 9. Testing & Deployment
+
+```mermaid
+graph TD
+T1[Unit Testing]
+T2[Integration Testing]
+T3[System Testing]
+T4[User Acceptance Testing]
+T5[Test Cases]
+T6[Test Plans]
+T7[CI CD]
+T8[Build Pipeline]
+T9[Deployment]
+T10[Monitoring]
+T11[Logging]
+```
+
+---
+
+## 10. NESA Glossary Verbs
+
+```mermaid
+graph TD
+V1[Analyse]
+V2[Evaluate]
+V3[Justify]
+V4[Assess]
+V5[Explain]
+V6[Propose]
+V7[Outline]
+V8[Describe]
+V9[Discuss]
+```
+
+---
+
+## 11. Links to Outcomes (broken into readable chunks)
+
+### O1 → Principles
+```mermaid
+graph TD
+O1[SE11 1] --> A1
+O1 --> A2
+O1 --> A3
+O1 --> A4
+O1 --> A5
+O1 --> A6
+O1 --> A7
+O1 --> A8
+O1 --> A9
+O1 --> A10
+O1 --> A11
+O1 --> A12
+```
+
+
+
+```mermaid
+
+```
+
+
+
+```mermaid
+
+```
+
+
+
+```mermaid
+
+```
