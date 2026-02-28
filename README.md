@@ -10,3 +10,19 @@ O3[SE11 3 Web and PWA Development]
 O4[SE12 1 Project Management and Documentation]
 O5[SE12 2 Evaluation Testing and Deployment]
 ```
+
+```mermaid
+graph TD
+A1[Abstraction]
+A2[Encapsulation]
+A3[Cohesion]
+A4[Coupling]
+A5[Modularity]
+A6[Concurrency]
+A7[State Management]
+A8[Design Patterns]
+A9[Architecture Styles MVC Layered Microservices]
+A10[Scalability]
+A11[Reliability]
+A12[Maintainability]
+```
