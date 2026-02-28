@@ -1,4 +1,4 @@
-# Wep Map
+# Web Map
 
 ```mermaid
 graph TD
