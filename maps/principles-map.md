@@ -28,5 +28,8 @@ click A9 "../terms/principles/architecture-styles.md"
 click A10 "../terms/principles/scalability.md"
 click A11 "../terms/principles/reliability.md"
 click A12 "../terms/principles/maintainability.md"
+
+R[← Back to Concept Map]
+click R "../concept-map.md"
 ```
 
